@@ -38,7 +38,7 @@ main.snd: main.bbl
 	makeindex -o main.and main.adx
 	makeindex -o main.lnd main.ldx
 	makeindex -o main.snd main.sdx 
-	xelatex main 
+	xelatex main
  
 
 #create a png of the cover

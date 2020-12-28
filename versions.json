@@ -1,8 +1,1 @@
-{
-  "versions": [{
-    "versiontype": "proofreading",
-    "title": "Information structure in spoken Japanese",
-    "authors": [{"name": "Natsuko Nakagawa"}],
-    "publishedAt": "2017-09-27T00:00:33.000Z"
-  }]
-}
+{"versions": [{"authors": [{"name": "Natsuko Nakagawa"}], "title": "Information structure in spoken Japanese", "publishedAt": "2017-09-27T00:00:33.000Z", "versiontype": "proofreading"}, {"title": "Information structure in spoken Japanese", "versiontype": "first_edition", "publishedAt": "2020-12-28T07:05:30.334964", "authors": [{"name": "Natsuko Nakagawa"}]}]}
